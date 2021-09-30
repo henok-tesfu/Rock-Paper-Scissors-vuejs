@@ -1,4 +1,4 @@
-# aside-nav
+# sideBar-nav
 
 ## Project setup
 ```
